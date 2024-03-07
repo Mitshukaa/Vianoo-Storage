@@ -1,0 +1,3 @@
+Nama: a
+Kelas: a
+Alamat: a
